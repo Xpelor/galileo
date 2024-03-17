@@ -1,2 +1,2 @@
 # galileo
-client-side php-to-js
+Clientsided backend
